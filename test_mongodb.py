@@ -1,4 +1,4 @@
-from pymongo.mongo_client import MongoClient
+from pymongo import MongoClient
 from _collections_abc import Mapping 
 from _collections_abc import MutableMapping 
 from _collections_abc import Sequence
