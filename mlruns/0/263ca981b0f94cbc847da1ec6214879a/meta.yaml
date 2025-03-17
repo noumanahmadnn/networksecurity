@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nouman%20Ahmad/ML_Projects/NetworkSecurity/mlruns/0/263ca981b0f94cbc847da1ec6214879a/artifacts
+end_time: 1742179160875
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 263ca981b0f94cbc847da1ec6214879a
+run_name: polite-mouse-627
+run_uuid: 263ca981b0f94cbc847da1ec6214879a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742179151773
+status: 3
+tags: []
+user_id: Nouman Ahmad

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nouman%20Ahmad/ML_Projects/NetworkSecurity/mlruns/0/aa17fc34cba444cb9610957177074a55/artifacts
+end_time: 1742179151680
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa17fc34cba444cb9610957177074a55
+run_name: capricious-loon-37
+run_uuid: aa17fc34cba444cb9610957177074a55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742179128101
+status: 3
+tags: []
+user_id: Nouman Ahmad
